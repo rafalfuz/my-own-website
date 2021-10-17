@@ -1,0 +1,31 @@
+background-color: #7f5a83;
+background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%); <--- granatowo-fioletowy
+
+background-color: #0cbaba;
+background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%); <-- tez w miare ciekawy mocno fiolet - blekit
+
+background-color: #29539b;
+background-image: linear-gradient(315deg, #29539b 0%, #1e3b70 74%); <-- niebieski
+
+background-color: #485461;
+background-image: linear-gradient(315deg, #485461 0%, #28313b 74%); <-- szary
+
+background-color: #000000;
+background-image: linear-gradient(315deg, #000000 0%, #414141 74%); <-- Ten mi sie podoba
+
+background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%); <-- trafia w gusta
+
+background-color: #4d4855;
+background-image: linear-gradient(147deg, #4d4855 0%, #000000 74%); <-- tez spoko
+
+
+background-color: #130f40;
+background-image: linear-gradient(315deg, #130f40 0%, #000000 74%); <-- ciemny fajny violet
+
+background-color: #ffa69e;
+background-image: linear-gradient(315deg, #ffa69e 0%, #5d4954 74%); <-- Mona Lisa dosc ciekawy
+
+background-color: #637081;
+background-image: linear-gradient(315deg, #637081 0%, #7c98b3 74%); <-- siwoniebieskistalowy
+

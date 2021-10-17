@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import backgroundImage from '../assets/backgroundWallpaper/wp8.jpg';
 
 const GlobalStyle = createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Montserrat:300,600');
@@ -14,10 +15,9 @@ const GlobalStyle = createGlobalStyle`
   }
   
   body {
-    padding-left: 150px;
     font-size: 1.6rem;
     font-family: "Montserrat", sans-serif;
-    background-color: tomato;
+    background-image: url(${backgroundImage});
   }
 `;
 
