@@ -4,6 +4,7 @@ import GlobalStyle from '../theme/globalStyle'
 import {theme} from '../theme/mainTheme'
 
 
+
 const MainTemplate = ({children}) => (
     <div>
         <GlobalStyle />

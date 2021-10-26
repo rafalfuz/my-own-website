@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import { device } from './breakpoints';
 import backgroundImage from '../assets/backgroundWallpaper/wp8.jpg';
 
 const GlobalStyle = createGlobalStyle`
@@ -18,6 +19,15 @@ const GlobalStyle = createGlobalStyle`
     font-size: 1.6rem;
     font-family: "Montserrat", sans-serif;
     background-image: url(${backgroundImage});
+
+    @media ${device.mobile}{
+      background-image: none;
+      background-color: red;
+    }
+    @media ${device.tablet}{
+      background-image: none;
+      background-color: green;
+    }
   }
 `;
 
