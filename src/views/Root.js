@@ -23,8 +23,11 @@ const StyledWrapper = styled.div`
     align-items: center;
     justify-content: center;
     @media (max-width: 960px){
-        border: none;
-        background-color: cornsilk;
+        border: 5px solid tomato;
+        background-color: #000000;
+        background-image: linear-gradient(315deg, #000000 0%, #414141 74%)
+        width: 90vw;
+        height: 300vh;
         
     }
 `
